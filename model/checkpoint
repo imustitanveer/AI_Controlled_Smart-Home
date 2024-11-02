@@ -1,0 +1,2 @@
+model_checkpoint_path: "wisdm_lstm.ckpt"
+all_model_checkpoint_paths: "wisdm_lstm.ckpt"
